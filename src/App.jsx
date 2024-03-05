@@ -1,10 +1,3 @@
-function App(){
-  return (
-    <div>
-      Hello, Monica!
-    </div>
-    
-  )
+export default function App() {
+  return <div className="text-xl">Hello Podia!</div>;
 }
-
-export default App;
