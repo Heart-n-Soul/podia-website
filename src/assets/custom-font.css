@@ -1,0 +1,91 @@
+/* @font-face {
+  font-family: "tiempos";
+  src: url("/fonts/TiemposHeadline-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+} */
+
+@font-face {
+    font-family: "tiempos";
+    src: url('/fonts/TiemposHeadline-Regular.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "tiempos";
+    src: url('/fonts/TiemposHeadline-RegularItalic.otf') format('opentype');
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: "tiempos";
+    src: url('/fonts/TiemposHeadline-Medium.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "tiempos";
+    src: url('/fonts/TiemposHeadline-MediumItalic.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: "tiempos";
+    src: url('/fonts/TiemposHeadline-Semibold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "tiempos";
+    src: url('/fonts/TiemposHeadline-SemiboldItalic.otf') format('opentype');
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: "tiempos";
+    src: url('/fonts/TiemposHeadline-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "tiempos";
+    src: url('/fonts/TiemposHeadline-BoldItalic.otf') format('opentype');
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: "tiempos";
+    src: url('/fonts/TiemposHeadline-Black.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "tiempos";
+    src: url('/fonts/TiemposHeadline-BlackItalic.otf') format('opentype');
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  @font-face {
+    font-family: "tiempos";
+    src: url('/fonts/TiemposHeadline-Light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "tiempos";
+    src: url('/fonts/TiemposHeadline-LightItalic.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+  }
+  
