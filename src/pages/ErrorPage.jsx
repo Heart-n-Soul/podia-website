@@ -1,4 +1,5 @@
 import { useRouteError } from "react-router";
+import { Link } from "react-router-dom";
 
 export default function ErrorPage() {
   const error = useRouteError();
@@ -16,6 +17,7 @@ export default function ErrorPage() {
       <p className=" font-light fluid-base ">
         <i>{error.statusText || error.message}</i>
       </p>
+      <Link className=" fluid-base bg-purple px-5 py-2 text-white rounded-full" to={'/'}>Back to Homepage</Link>
     </div>
   );
 }
