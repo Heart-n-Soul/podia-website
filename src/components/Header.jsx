@@ -13,8 +13,9 @@ export default function Header() {
       </nav>
       <div>
         <a href="">Login</a>
-        <a href="">Sign up free</a>
+        <a href="inte.n">Sign up free</a>
       </div>
+
     </header>
   );
 }
